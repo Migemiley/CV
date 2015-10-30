@@ -1,0 +1,105 @@
+*{	-webkit-transition: .7s ease-out;
+ 	-moz-transition: .7s ease-out;
+ 	-o-transition:  .7s ease-out;
+ 	transition: .7s ease-out;
+    list-style: none;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.8em;
+}
+
+.bigicon {font-size: 3em;}
+h2{font-size: 42px;}
+h3{font-size: 28px;}
+h4{font-size: 18px; line-height: 1.4em;}
+
+p{
+    letter-spacing: 1px;
+    color: #5A5A5A;
+    font-weight: lighter;
+}
+
+ul{padding: 0;}
+a{color: #fff}
+a:hover{color: #c3c3c3; text-decoration: none;}
+
+#wyksztalcenie{text-align: center;}
+.col-md-4, .col-md-6{padding-bottom: 50px;}
+.col-md-3 {padding: 0;}
+
+#kwalifikacje{text-align: center;}
+.col-md-4, .col-md-6{padding-bottom: 50px;}
+.col-md-3 {padding: 0;}
+
+.sectionhead{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+hr.separetor{
+    width: 150px;
+    color: #000000;
+    border-top: 2px solid #30A056;
+}
+
+
+.btn-default{
+    background: none;
+    border: none;
+    text-transform: uppercase;
+    margin: 50px 0;
+    color: #c3c3c3;
+    letter-spacing: 2px;
+}
+
+.btn-default:hover{
+    background: none;
+    color: #33D685;
+}
+
+.btnicon, .brandicon{
+    margin-right: 10px;
+}
+
+#tytul{
+    color: #fff;
+    text-align: center;
+    background: url(http://www.desktopwallpaperhd.net/wallpapers/7/6/backgrounds-portfolio-image-79814.jpg);
+    max-height: 880px;
+    overflow: hidden;
+}
+
+.tytulcontent{
+    padding-top: 100px;
+    width: 100%;
+    max-width: 900px;
+	margin-bottom: 500px;
+	padding-top: 250px;
+}
+.tytulshot{
+    margin-top: 20px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+#omnie{padding-top: 100px;}
+
+footer{
+    text-align: center;
+    padding: 50px 0;
+    background: #00664C;
+}
+
+footer p, footer .bigicon {color: #fff;}
+
+.footerlinks{margin: 30px 0;}
+.footerlinks li{
+    display: inline;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
